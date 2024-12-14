@@ -11,7 +11,7 @@ const poppins = Poppins({
 export const metadata = {
   title: "New Life Dream Foundation",
   description:
-    "This is the starter kit i hope to use for my future projects, as i improve, i will imporove on it",
+    "Transforming lives and restoring hope",
 };
 
 export default function RootLayout({ children }) {
