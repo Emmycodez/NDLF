@@ -20,7 +20,7 @@ const GetInvolved = () => {
             <CardContent>
               <p>
                 Join our community of dedicated volunteers and make a difference
-                in someone's life.
+                in someone&apos;s life.
               </p>
               <Button className="mt-4" variant="outline">
                 Learn More
